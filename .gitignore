@@ -1,0 +1,14 @@
+__pycache__/
+*.py[cod]
+*.egg-info/
+dist/
+build/
+.env
+*.pkl
+*.h5
+*.keras
+saved_models/
+.ipynb_checkpoints/
+*.DS_Store
+.pytest_cache/
+*.log
